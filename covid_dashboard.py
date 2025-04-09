@@ -1,5 +1,3 @@
-# To run this file open windows powershell and type cd "F:\Users\HP\PycharmProjects\pythonProject4"
-# Then type streamlit run covid_dashboard.py
 import os
 import json
 import streamlit as st
