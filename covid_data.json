@@ -1,0 +1,72 @@
+[
+  {
+    "country": "India",
+    "cases": 44789000,
+    "deaths": 530000,
+    "recovered": 44000000,
+    "population": 1400000000
+  },
+  {
+    "country": "USA",
+    "cases": 105000000,
+    "deaths": 1150000,
+    "recovered": 103000000,
+    "population": 331000000
+  },
+  {
+    "country": "Brazil",
+    "cases": 38000000,
+    "deaths": 700000,
+    "recovered": 37500000,
+    "population": 213000000
+  },
+  {
+    "country": "Germany",
+    "cases": 38000000,
+    "deaths": 100000,
+    "recovered": 37500000,
+    "population": 83000000
+  },
+  {
+    "country": "Russia",
+    "cases": 25000000,
+    "deaths": 400000,
+    "recovered": 24500000,
+    "population": 146000000
+  },
+  {
+    "country": "France",
+    "cases": 39000000,
+    "deaths": 160000,
+    "recovered": 38500000,
+    "population": 67000000
+  },
+  {
+    "country": "UK",
+    "cases": 25000000,
+    "deaths": 230000,
+    "recovered": 24500000,
+    "population": 67000000
+  },
+  {
+    "country": "Japan",
+    "cases": 35000000,
+    "deaths": 80000,
+    "recovered": 34800000,
+    "population": 125000000
+  },
+  {
+    "country": "Italy",
+    "cases": 25000000,
+    "deaths": 190000,
+    "recovered": 24800000,
+    "population": 60000000
+  },
+  {
+    "country": "Mexico",
+    "cases": 15000000,
+    "deaths": 330000,
+    "recovered": 14500000,
+    "population": 126000000
+  }
+]
